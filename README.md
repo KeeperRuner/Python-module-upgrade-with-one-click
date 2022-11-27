@@ -1,3 +1,2 @@
-# This-is-my-first-code
-Hello World
-This line of code allows Python modules to be upgraded with one click
+这是一个可以让VScode编辑器下运行Python的一件模块升级程序，
+希望可以帮助到更多人更方便的升级自己的Python模块
